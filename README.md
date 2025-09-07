@@ -19,4 +19,4 @@ It allows users to play, pause, skip tracks, manage playlists, and search for mu
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yash-developer651/CodeAlpha_MUSIC_PLAYER.git
